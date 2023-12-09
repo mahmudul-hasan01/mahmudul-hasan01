@@ -6,7 +6,7 @@
 
 I am Mahmudul Hasan, a web developer. I am proficient in JavaScript, React, Node.js, Express.js, MongoDB, and Firebase. I excel in creating web applications and sites and am enthusiastic about learning new things, collaborating, and furthering my expertise in the field of technology.
 
-Skills: HTML / CSS /  REACT / JS / NODE.JS / EXPRESS.JS / MONGO DB / FIREBASE
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
 
 
