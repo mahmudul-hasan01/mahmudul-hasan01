@@ -6,8 +6,9 @@
 
 I am Mahmudul Hasan, a web developer. I am proficient in JavaScript, React, Node.js, Express.js, MongoDB, and Firebase. I excel in creating web applications and sites and am enthusiastic about learning new things, collaborating, and furthering my expertise in the field of technology.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase)](https://skillicons.dev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul-hasan01&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul-hasan01" /> </p>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahmudul-hasan01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahamudul.hasansakib.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahmudul-hasan01/)  
@@ -19,6 +20,7 @@ I am Mahmudul Hasan, a web developer. I am proficient in JavaScript, React, Node
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudul-hasan01&theme=vision_friendly_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmudul-hasan01&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmudul-hasan01&theme=vision_friendly_dark&utcOffset=8)
+
 
 
 
